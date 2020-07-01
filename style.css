@@ -141,6 +141,9 @@ p.contact{
     margin-left: 35%;
     color: #ffffff;
 }
+p.contact:hover{
+    background:salmon;
+}
 
 /* footer  */
 
