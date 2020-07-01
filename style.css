@@ -45,6 +45,11 @@ h1 span{
     color: #ffffff;
     border-radius: 3px;
     font-size: 10px;
+    font-weight: 700;
+}
+.btn:hover{
+    background: salmon;
+
 }
 
 .half-width img{
